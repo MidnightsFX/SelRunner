@@ -1,0 +1,13 @@
+:auth:
+  :crossbrowsertesting:
+    :user: ''
+    :pass: ''
+    :hub:  'hub.crossbrowsertesting.com/wd/hub'
+  :browserstack:
+    :user: ''
+    :pass: ''
+    :hub:  'hub.browserstack.com/wd/hub'
+  :saucelabs:
+    :user: ''
+    :pass: ''
+    :hub:  'ondemand.saucelabs.com/wd/hub'
